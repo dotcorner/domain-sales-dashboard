@@ -4,6 +4,8 @@ A free dashboard for domain sellers. Drop in a CSV of your sales to see gross, n
 still in progress, for the last 30 days, 90 days, 12 months, this year or all time. Each period is
 compared with the one before it.
 
+<img width="1188" height="857" alt="image" src="https://github.com/user-attachments/assets/d8a468c6-e080-4ef8-a7fd-bdb62434f27f" />
+
 **Open it:** https://dotcorner.github.io/domain-sales-dashboard/
 
 **Use it offline:** click **Download** on the page, or save [`index.html`](index.html). Then open
